@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Homework</string>
+
+    <string name="log">Введите логин</string>
+    <string name="pas">Введите пароль</string>
+
+    <string name="Maintxt">Войдите в аккаунт</string>
+    <string name="Button">Подтвердить</string>
+
+    <string name="Password">1234</string>
+
+    <string name="passed">Поздравляю, вы прошли!</string>
+    <string name="exitbutton">Выйти</string>
+
+    <string name="Regtxt">Регистрация</string>
+</resources>
